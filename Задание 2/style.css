@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: #d2d2d2;
+}
+.block {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    align-items: center;
+    width: auto;
+    gap: 20px;
+    background-color: #ffffff;
+    border: 0 solid #000000;
+    border-radius: 15px;
+    padding: 20px;
+}
